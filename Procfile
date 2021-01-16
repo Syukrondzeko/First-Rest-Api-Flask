@@ -1,0 +1,1 @@
+web: gunicorn belajarApi:app --reload workers 2
