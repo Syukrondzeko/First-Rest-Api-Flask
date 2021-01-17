@@ -1,1 +1,1 @@
-web: gunicorn app:belajarApi
+web: gunicorn app:app
