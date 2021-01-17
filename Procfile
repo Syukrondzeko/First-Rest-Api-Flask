@@ -1,1 +1,1 @@
-web: gunicorn app:belajarApi --reload workers 2
+web: gunicorn app:belajarApi
